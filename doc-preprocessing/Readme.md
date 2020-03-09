@@ -1,4 +1,5 @@
 Extract terms from a document:
+
 Here are the steps what I gonna do:
 1. Tokenization.
 2. Lowercasing everything.
